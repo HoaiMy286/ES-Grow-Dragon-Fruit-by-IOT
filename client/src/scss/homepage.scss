@@ -1,0 +1,154 @@
+.container{
+    // padding-left:30px ;
+    color:rgb(51, 87, 68);
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.home-noti-fix {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-left{
+    width: 811px;
+    height: 100%;
+    padding: 10px;
+    padding-top: 20px;
+    color:rgb(25, 99, 48);
+
+}
+.home-right{
+    width: 40%;
+    padding: 10px;
+    padding-top: 20px;
+    margin-left: 20px;
+    color:rgb(25, 99, 48);
+   
+}
+.location{
+    width: 811px;
+    padding-top: 20px;
+   
+    color:rgb(25, 99, 48);
+}
+.card-location{
+    background-color: white;;
+    border-radius: 30px;
+    color:rgb(25, 99, 48);
+}
+.weather{
+    border-radius: 30px;
+    height: 235px;
+width: 811px;
+color:rgb(25, 99, 48);
+background-image:url(https://cdn.bhdw.net/im/mountain-and-tree-silhouettes-with-night-star-view-wallpaper-105993_w635.webp) ;
+
+}
+.text{
+
+    color: #fff;
+padding-left:70px;
+padding-top: 150px;
+
+}
+.a-location{
+    text-decoration: none;;
+    color:rgb(25, 99, 48);
+}
+.Home-Noti{
+    width:100% ;
+    // height: 600px;
+    background-color: rgba(222, 249, 234, 0.607);
+    border-radius: 40px;
+    margin-top: 40px;
+    color: #274b53;
+   
+
+}
+.grown-plant{
+    width:100% ;
+    height: 370px;
+    background-color: white;
+   // margin-left: 30px;
+    border-radius: 30px;
+    margin-top: 30px;
+    display:  flex;
+}
+.plant-img{
+    width: 100%;
+  
+}
+.right{
+    background-color: #fff;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.Start{
+    background-color: #fff;
+    border-radius: 20px;
+    margin: auto;
+    width: 50%;
+    font-size: 50px;
+}
+.Notification{
+  
+    width: 90%;
+    height: 90%;
+    margin: 20px;
+    border-radius: 50px;
+    color: black;
+    display:flex;
+
+
+}
+
+.Setting{
+    background-color: white;
+    margin:auto;
+    width: 70%;
+    height: 100%;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.plant-img{
+    height: 250px;
+    padding-top: 10px;
+    // background-image: url(https://as1.ftcdn.net/v2/jpg/01/94/17/70/1000_F_194177047_fEYbMW9m3d2lQIOJAgQ9r6KmbeZsoFHJ.jpg);
+}
+.Noti{
+    font-size: 16px;
+    padding: 10px;
+    padding-left: 20px;
+}
+.table-name{
+    padding-top: 20px;
+    align-items: center;
+    text-align: center;;
+    font-size: 30px;
+    padding-bottom: 40px;
+}
+.table{
+    width:100%;
+    padding:auto;
+    
+}
+.state{
+ margin-top: 20px;
+}
+.infor-noti{
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.led{
+    background-color: #fff;
+    height: 650px;
+    border-radius: 40px;
+    margin-right:30px ;
+    margin-left: 10px;
+     margin-top: 20px;
+}

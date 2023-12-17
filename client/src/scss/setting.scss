@@ -1,0 +1,247 @@
+.container{
+    padding-left:30px ;
+    color:rgb(25, 99, 48);
+}
+
+.left{
+    width: 811px;
+    height: 100%;
+    margin-left: 20%;
+    padding: 10px;
+    padding-top: 20px;
+    color:rgb(25, 99, 48);
+}
+
+.settings{
+    background-color: white;
+    height: 100%px;
+    border-radius: 30px;
+    color:rgb(25, 99, 48);
+}
+.avatar{
+    // border-radius: 30px;
+    height: 300px;
+    width: 250px;
+
+    // background-image:url(https://storage.googleapis.com/ops-shopee-files-live/live/shopee-blog/2022/01/9dff01dc-cac-kieu-toc-nam-dep.jpg) ;
+
+    // background-repeat: no-repeat;
+    // background-position: center;
+    // background-color: #fff;
+    
+    margin:auto;
+    padding-top:20px
+}
+.name{
+    text-align: center;
+    margin: auto;
+}
+.image{
+    width: 200px;
+    height: 200px;
+}
+.text{
+
+    color: #fff;
+padding-left:70px;
+padding-top: 150px;
+
+}
+.a-location{
+    text-decoration: none;;
+    color:rgb(25, 99, 48);
+}
+
+.buttonscl{
+    width:100% ;
+    height: 200px;
+    background-color: rgb(235, 231, 231);
+    // margin-left: 30px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+
+.plant-img{
+    width: 100%;
+  
+}
+.Notification{
+  
+    width: 90%;
+    height: 90%;
+    margin: 20px;
+    border-radius: 50px;
+    color: black;
+    display:flex;
+
+
+}
+.home-noti{
+    text-decoration: none;
+    color: black;
+}
+.Setting{
+    background-color: white;
+    margin:auto;
+    width: 70%;
+    height: 100%;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.plant-img{
+    height: 250px;
+    padding-top: 10px;
+    // background-image: url(https://as1.ftcdn.net/v2/jpg/01/94/17/70/1000_F_194177047_fEYbMW9m3d2lQIOJAgQ9r6KmbeZsoFHJ.jpg);
+}
+.Noti{
+    font-size: 16px;
+    padding: 10px;
+    padding-left: 20px;
+}
+.table-name{
+    padding-top: 20px;
+    align-items: center;
+    text-align: center;;
+    font-size: 30px;
+    padding-bottom: 40px;
+}
+.table{
+    width:100%;
+    padding:auto;
+    
+}
+.state{
+ margin-top: 20px;
+}
+
+//////////// BUTTON AVATAR //////
+
+.button-avatar{
+    background-color: #75d7f0; /* Green */
+    border: none;
+    color: rgb(22, 21, 21);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+    border-radius: 30px;
+    margin-top: 170px;
+    margin-left: 550px;
+}
+
+.button-avatar:hover{
+    // padding-right: 25px;
+    background-color: #4c7caf;
+}
+
+.text{
+    margin-left: 30px;
+}
+
+.form-text{
+    width: 650px;
+    height: 70px;
+    background-color: #9fe3f4;
+    border: none;
+    border-radius: 20px;
+    font-size: 30px;
+    padding-left: 20px;
+
+}
+
+/////////// SAVE ///////////
+
+.save{
+    background-color: #73e38b; /* Green */
+    border: none;
+    color: rgb(21, 20, 20);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    width: 350px;
+    height: 70px;
+
+    border-radius: 30px;
+}
+
+.save:hover{
+    background-color: #289c74;
+}
+
+.savecenter
+{
+    width: 50%;
+    float: left;
+}
+
+/////////// CANCEL ///////////
+
+.cancel{
+    background-color: #a4a7a5; /* Green */
+    border: none;
+    color: rgb(21, 20, 20);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+
+    width: 350px;
+    height: 70px;
+
+    border-radius: 30px;
+}
+
+.cancel:hover{
+    background-color: #606161;
+}
+
+.cancelcenter
+{
+    width: 50%;
+    float: right;
+}
+
+/////////// LOGOUT ///////////
+
+.logout{
+    background-color: #df6126; /* Green */
+    border: none;
+    color: rgb(21, 20, 20);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+
+    width: 745px;
+    height: 70px;
+
+    border-radius: 30px;
+}
+
+.logout:hover{
+    background-color: #973714;
+}
+
+.logoutcenter
+{
+    width: 20%;
+    margin:auto;
+    align-items: center;
+    font-size: 30px;
+}
+.setting{
+    background-color: #fff;
+    border-radius: 20px;
+    width: 750px;
+    margin:auto;
+    margin-top:30px;
+}
+
+
+

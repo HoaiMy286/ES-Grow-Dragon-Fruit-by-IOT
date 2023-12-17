@@ -1,0 +1,28 @@
+@import "../../scss/variables";
+
+.container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px 0 200px;
+    width: 100%;
+    height: $navbarHeight;
+    background: $secondary;
+    border-radius: 0px 0px 30px 30px;
+
+}
+
+.text {
+    color: $primary;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.left-wrapper {}
